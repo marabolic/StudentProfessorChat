@@ -1,3 +1,5 @@
 # StudentProfessorChat
 
-Female Namics Hackathon task
+Prototype solution for a Female Namics Hackathon.
+Topic: Smart education
+
